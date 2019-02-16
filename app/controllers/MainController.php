@@ -17,8 +17,7 @@ class MainController extends AppController
 
     public function indexAction()
     {
-        debug($this->view);
+        $this->setMeta("testMeta", "this is test", "test_keyword");
 
-//        echo __METHOD__;
     }
 }
