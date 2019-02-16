@@ -9,6 +9,7 @@
 namespace app\controllers;
 
 
+use ishop\App;
 use ishop\base\Controller;
 
 class MainController extends AppController
@@ -17,7 +18,11 @@ class MainController extends AppController
 
     public function indexAction()
     {
-        $this->setMeta("testMeta", "this is test", "test_keyword");
+        // App::$app->getProperty('shop_name')
+        $this->setMeta( 'Главная страница', "Описание", "Ключи");
 
+//        $name = "Kristy";
+//        $age = 19;
+//        $this->set(compact('name', 'age'));
     }
 }

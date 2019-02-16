@@ -96,3 +96,7 @@
 ---------------------
 [2019-02-15 14:54:09] Текст ошибки: Метод app\controllers\MainController::indexAction не найден | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 42
 ---------------------
+[2019-02-16 04:07:41] Текст ошибки: Call to undefined method ishop\Registry::getParams() | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/controllers/MainController.php | Строка: 21
+---------------------
+[2019-02-16 04:07:41] Текст ошибки: Call to undefined method ishop\Registry::getParams() | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/controllers/MainController.php | Строка: 21
+---------------------
