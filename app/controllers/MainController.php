@@ -11,6 +11,7 @@ namespace app\controllers;
 
 use ishop\App;
 use ishop\base\Controller;
+use ishop\Cache;
 use RedBeanPHP\R as R;
 
 class MainController extends AppController
@@ -24,6 +25,18 @@ class MainController extends AppController
 
         $posts = R::findAll('test');
         $postById = R::findOne('test', "id=?", [2]);
+
+        $kovcheg = ['Jarvis', 'Alexa', 'Siri'];
+
+        $cache = Cache::instance();
+
+//        $cache->delete("test");
+        $cacheData = $cache->get("test");
+        if (!$cacheData) {
+            $cache->set('test', $kovcheg);
+        }
+
+        debug($cacheData);
 
         $this->set(compact('posts'));
     }
