@@ -132,3 +132,13 @@
 ---------------------
 [2019-02-16 04:43:30] Текст ошибки: Не найден вид /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/views/Page/view.php | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/base/View.php | Строка: 49
 ---------------------
+[2019-02-16 05:06:17] Текст ошибки: Class 'R' not found | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Db.php | Строка: 21
+---------------------
+[2019-02-16 05:06:18] Текст ошибки: Class 'R' not found | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Db.php | Строка: 21
+---------------------
+[2019-02-16 05:06:18] Текст ошибки: Class 'R' not found | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Db.php | Строка: 21
+---------------------
+[2019-02-16 05:06:50] Текст ошибки: Нет соединения с БД | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Db.php | Строка: 23
+---------------------
+[2019-02-16 05:14:22] Текст ошибки: Class 'R' not found | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/views/layouts/default.php | Строка: 20
+---------------------

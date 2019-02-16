@@ -11,6 +11,7 @@ namespace app\controllers;
 
 use ishop\App;
 use ishop\base\Controller;
+use RedBeanPHP\R as R;
 
 class MainController extends AppController
 {
@@ -21,8 +22,9 @@ class MainController extends AppController
         // App::$app->getProperty('shop_name')
         $this->setMeta( 'Главная страница', "Описание", "Ключи");
 
-//        $name = "Kristy";
-//        $age = 19;
-//        $this->set(compact('name', 'age'));
+        $posts = R::findAll('test');
+        $postById = R::findOne('test', "id=?", [2]);
+
+        $this->set(compact('posts'));
     }
 }
