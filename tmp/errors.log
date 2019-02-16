@@ -100,3 +100,35 @@
 ---------------------
 [2019-02-16 04:07:41] Текст ошибки: Call to undefined method ishop\Registry::getParams() | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/controllers/MainController.php | Строка: 21
 ---------------------
+[2019-02-16 04:19:56] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 49
+---------------------
+[2019-02-16 04:35:47] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:35:47] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:35:48] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:36:02] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:37:37] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:38:46] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:38:46] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:38:51] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:39:14] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:39:27] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:39:33] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:39:44] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 50
+---------------------
+[2019-02-16 04:41:53] Текст ошибки: Страница не найдена | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/Router.php | Строка: 51
+---------------------
+[2019-02-16 04:43:30] Текст ошибки: Не найден вид /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/views/Page/view.php | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/base/View.php | Строка: 49
+---------------------
+[2019-02-16 04:43:30] Текст ошибки: Не найден вид /Applications/XAMPP/xamppfiles/docs/ishop2.loc/app/views/Page/view.php | Файл: /Applications/XAMPP/xamppfiles/docs/ishop2.loc/vendor/ishop/core/base/View.php | Строка: 49
+---------------------
